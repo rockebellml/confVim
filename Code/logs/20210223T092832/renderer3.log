@@ -1,0 +1,2 @@
+[2021-02-23 10:52:26.686] [renderer3] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/cesla_dev/.vim/.vscode'
+[2021-02-23 10:53:00.426] [renderer3] [error] ENOENT: no such file or directory, open '/home/cesla_dev/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/cesla_dev/.config/Code/User/globalStorage/vscodevim.vim/.registers'

@@ -1,0 +1,19 @@
+[2021-02-23 09:29:16.288] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-23 10:52:56.080] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-02-23 10:52:58.589] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2021-02-23 10:52:58.808] [sharedprocess] [info] Extracted extension to /home/cesla_dev/.vscode/extensions/.vscodevim.vim-1.18.9: vscodevim.vim
+[2021-02-23 10:52:58.809] [sharedprocess] [info] Renamed to /home/cesla_dev/.vscode/extensions/vscodevim.vim-1.18.9
+[2021-02-23 10:52:58.810] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-02-23 10:52:58.820] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-02-23 10:53:00.961] [sharedprocess] [info] Uninstalling extension: vscodevim.vim
+[2021-02-23 10:53:01.023] [sharedprocess] [info] Successfully uninstalled extension: vscodevim.vim
+[2021-02-23 10:53:15.948] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-02-23 10:53:16.005] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2021-02-23 10:53:16.013] [sharedprocess] [info] Removed the extension from uninstalled list: vscodevim.vim
+[2021-02-23 10:53:16.045] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-02-23 10:53:17.963] [sharedprocess] [info] Installing extension: asvetliakov.vscode-neovim
+[2021-02-23 10:53:20.491] [sharedprocess] [info] Downloaded extension: asvetliakov.vscode-neovim undefined
+[2021-02-23 10:53:20.590] [sharedprocess] [info] Extracted extension to /home/cesla_dev/.vscode/extensions/.asvetliakov.vscode-neovim-0.0.78: asvetliakov.vscode-neovim
+[2021-02-23 10:53:20.591] [sharedprocess] [info] Renamed to /home/cesla_dev/.vscode/extensions/asvetliakov.vscode-neovim-0.0.78
+[2021-02-23 10:53:20.593] [sharedprocess] [info] Installation completed. asvetliakov.vscode-neovim
+[2021-02-23 10:53:20.622] [sharedprocess] [info] Extensions installed successfully: asvetliakov.vscode-neovim

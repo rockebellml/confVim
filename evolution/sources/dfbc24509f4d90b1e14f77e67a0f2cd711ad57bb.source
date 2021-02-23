@@ -1,0 +1,31 @@
+[Data Source]
+DisplayName=bruno.moura@ws-solution.com
+Enabled=true
+Parent=
+
+[Authentication]
+Host=
+Method=none
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+IsExternal=true
+
+[Collection]
+BackendName=outlook
+CalendarEnabled=true
+ContactsEnabled=true
+Identity=caaa0f4f3820b4c2
+MailEnabled=true
+AllowSourcesRename=false
+CalendarUrl=
+ContactsUrl=
+
+[GNOME Online Accounts]
+AccountId=account_1614009675_0
+CalendarUrl=
+ContactsUrl=
+Name=
+Address=bruno.moura@ws-solution.com

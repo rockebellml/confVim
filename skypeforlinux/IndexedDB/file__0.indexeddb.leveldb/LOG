@@ -1,0 +1,14 @@
+2021/02/23-11:54:25.710 932 Reusing MANIFEST /home/cesla_dev/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/02/23-11:54:25.712 932 Recovering log #13
+2021/02/23-11:54:25.728 932 Reusing old log /home/cesla_dev/.config/skypeforlinux/IndexedDB/file__0.indexeddb.leveldb/000013.log 
+2021/02/23-11:54:25.728 932 Delete type=2 #14
+2021/02/23-11:54:25.728 932 Delete type=2 #12
+2021/02/23-11:58:06.448 13fc Level-0 table #18: started
+2021/02/23-11:58:06.482 13fc Level-0 table #18: 1350977 bytes OK
+2021/02/23-11:58:06.487 13fc Delete type=0 #13
+2021/02/23-12:02:20.184 21c3 Compacting 1@1 + 1@2 files
+2021/02/23-12:02:20.208 21c3 Generated table #19@1: 5271 keys, 799998 bytes
+2021/02/23-12:02:20.208 21c3 Compacted 1@1 + 1@2 files => 799998 bytes
+2021/02/23-12:02:20.209 21c3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/23-12:02:20.209 21c3 Delete type=2 #18
+2021/02/23-12:02:20.209 21c3 Delete type=2 #15

@@ -1,0 +1,9 @@
+2021/02/23-11:54:23.798 910 Reusing MANIFEST /home/cesla_dev/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/02/23-11:54:23.798 910 Recovering log #18
+2021/02/23-11:54:23.799 910 Reusing old log /home/cesla_dev/.config/skypeforlinux/Local Storage/leveldb/000018.log 
+2021/02/23-11:55:23.545 930 Level-0 table #22: started
+2021/02/23-11:55:23.553 930 Level-0 table #22: 71052 bytes OK
+2021/02/23-11:55:23.555 930 Delete type=0 #18
+2021/02/23-12:59:14.978 ce18 Level-0 table #24: started
+2021/02/23-12:59:14.991 ce18 Level-0 table #24: 70925 bytes OK
+2021/02/23-12:59:14.994 ce18 Delete type=0 #21

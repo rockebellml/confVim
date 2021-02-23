@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=bruno.moura@ws-solution.com
+Enabled=true
+Parent=dfbc24509f4d90b1e14f77e67a0f2cd711ad57bb
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=fe9df37f2bdd8416af5efa9f00ba3598253c19a3
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=bruno.moura@ws-solution.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

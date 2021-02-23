@@ -1,0 +1,21 @@
+2021/02/23-08:08:25.321 91b Reusing MANIFEST /home/cesla_dev/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/02/23-08:08:25.322 91b Recovering log #10
+2021/02/23-08:08:25.322 91b Reusing old log /home/cesla_dev/.config/skypeforlinux/Local Storage/leveldb/000010.log 
+2021/02/23-08:09:25.987 93b Level-0 table #14: started
+2021/02/23-08:09:25.997 93b Level-0 table #14: 70548 bytes OK
+2021/02/23-08:09:26.000 93b Delete type=0 #10
+2021/02/23-09:09:07.478 e968 Level-0 table #16: started
+2021/02/23-09:09:07.481 e968 Level-0 table #16: 71814 bytes OK
+2021/02/23-09:09:07.484 e968 Delete type=0 #13
+2021/02/23-09:09:07.484 d58b Compacting 4@0 + 1@1 files
+2021/02/23-09:09:07.492 d58b Generated table #17@0: 13 keys, 71058 bytes
+2021/02/23-09:09:07.492 d58b Compacted 4@0 + 1@1 files => 71058 bytes
+2021/02/23-09:09:07.493 d58b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/23-09:09:07.494 d58b Delete type=2 #16
+2021/02/23-09:09:07.494 d58b Delete type=2 #14
+2021/02/23-09:09:07.494 d58b Delete type=2 #11
+2021/02/23-09:09:07.494 d58b Delete type=2 #9
+2021/02/23-09:09:07.494 d58b Delete type=2 #7
+2021/02/23-10:15:25.842 1c52c Level-0 table #19: started
+2021/02/23-10:15:25.847 1c52c Level-0 table #19: 70551 bytes OK
+2021/02/23-10:15:25.851 1c52c Delete type=0 #15

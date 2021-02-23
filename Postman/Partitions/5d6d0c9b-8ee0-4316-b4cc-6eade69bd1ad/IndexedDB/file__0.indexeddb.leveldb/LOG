@@ -1,0 +1,19 @@
+2021/02/23-09:09:17.383 eb6f Reusing MANIFEST /home/cesla_dev/.config/Postman/Partitions/5d6d0c9b-8ee0-4316-b4cc-6eade69bd1ad/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/02/23-09:09:17.536 e33c Level-0 table #5: started
+2021/02/23-09:09:17.560 e33c Level-0 table #5: 494 bytes OK
+2021/02/23-09:09:17.586 e33c Delete type=0 #3
+2021/02/23-09:09:17.599 e33c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/02/23-09:09:18.650 e33c Level-0 table #7: started
+2021/02/23-09:09:18.670 e33c Level-0 table #7: 476 bytes OK
+2021/02/23-09:09:18.728 e33c Delete type=0 #4
+2021/02/23-09:09:18.728 e33c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/02/23-09:09:55.843 e33c Level-0 table #9: started
+2021/02/23-09:09:55.851 e33c Level-0 table #9: 34653 bytes OK
+2021/02/23-09:09:55.853 e33c Delete type=0 #6
+2021/02/23-09:09:55.853 e33c Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 2586 : 1
+2021/02/23-09:09:55.854 e33c Compacting 1@0 + 1@1 files
+2021/02/23-09:09:55.856 e33c Generated table #10@0: 1482 keys, 17378 bytes
+2021/02/23-09:09:55.856 e33c Compacted 1@0 + 1@1 files => 17378 bytes
+2021/02/23-09:09:55.857 e33c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/02/23-09:09:55.858 e33c Delete type=2 #9
+2021/02/23-09:09:55.858 e33c Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 2586 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

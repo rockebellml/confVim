@@ -1,0 +1,37 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/cesla_dev/.vim/MyNvimConfig
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/cesla_dev/.vim/MyNvimConfig/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :plug-config/coc.vim
+> git ls-files --stage -- /home/cesla_dev/.vim/MyNvimConfig/plug-config/coc.vim
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :plug-config/coc.vim
+> git ls-files --stage -- /home/cesla_dev/.vim/MyNvimConfig/plug-config/coc.vim
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :autoload/plug.vim
+> git ls-files --stage -- /home/cesla_dev/.vim/MyNvimConfig/autoload/plug.vim
+> git cat-file -s 865ce3fda431d6285f6d668f1d6ee68a4c7b8c5b
+> git show --textconv :autoload/plug.vim.old
+> git ls-files --stage -- /home/cesla_dev/.vim/MyNvimConfig/autoload/plug.vim.old
+> git cat-file -s 92622087bd480bd67412c873229700d62e72d9bb
+> git show --textconv :autoload/plug.vim
+> git ls-files --stage -- /home/cesla_dev/.vim/MyNvimConfig/autoload/plug.vim
+> git cat-file -s 865ce3fda431d6285f6d668f1d6ee68a4c7b8c5b
+> git show --textconv :autoload/plug.vim.old
+> git ls-files --stage -- /home/cesla_dev/.vim/MyNvimConfig/autoload/plug.vim.old
+> git cat-file -s 92622087bd480bd67412c873229700d62e72d9bb
+> git show --textconv :autoload/plug.vim
+> git ls-files --stage -- /home/cesla_dev/.vim/MyNvimConfig/autoload/plug.vim
+> git cat-file -s 865ce3fda431d6285f6d668f1d6ee68a4c7b8c5b
